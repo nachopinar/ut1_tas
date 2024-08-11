@@ -1,0 +1,23 @@
+/* Clase para todos los elementos impares */
+.impar {
+    background-color: lightpink;
+    font-family: Verdana, DejaVu Sans, sans-serif;
+}
+
+/* ID para el segundo elemento */
+#segundo {
+    color: blue;
+    font-size: 36px;
+}
+
+/* Clase adicional para el tercer elemento */
+.cooler {
+    font-size: 24px;
+}
+
+/* ID para el cuarto elemento */
+#cuarto {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
