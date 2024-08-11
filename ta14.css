@@ -1,0 +1,6 @@
+.container p {
+    background-color: yellow; /* Fondo amarillo */
+    color: red;                /* Texto rojo */
+    font-size: 20px;           /* Tamaño de fuente de 20px */
+    text-align: center;        /* Alineación centrada */
+}
